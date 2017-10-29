@@ -2,7 +2,7 @@
 import fresh_tomatoes
 # import media to access the class Movie!!
 import media
-#sending attributes value in function __init__ of class Movie for instance padmavati!!
+#sending attributes value in function  __init__  of class Movie for instance padmavati!!
 padmavati = media.Movie("padmavati",            # we are creating each instances for each movie by movie name!!       
                         "a story of queen padmini",
                         "https://upload.wikimedia.org/wikipedia/en/4/47/Padmavati_Poster.jpg",
