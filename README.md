@@ -20,7 +20,7 @@ Objects for different movies are created and intialized using constructors.
 2 clone the repository <br/>
 3 to build the page open the file entertainment_center.py <br/>
 4 run entertainment_center.py file in idle or etc. <br/>
-5 it will generates html file and a page will open automatically in browser <br/>
+5 when you run entertainment_center.py it will generates html file and a page will open automatically in browser <br/>
 6 if you have html file you can open html page directly with any browser 
 
 ## To add more movies in page 
