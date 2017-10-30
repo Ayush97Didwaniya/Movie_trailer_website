@@ -14,10 +14,14 @@ this will show movies posters which are statically added using python code. when
 #### entertainment_center.py
 
 Objects for different movies are created and intialized using constructors.
-## Steps to execute project
-* install python
-* clone the repository
-* run fresh_tomatoes.html file
+
+## Steps to run the application
+1 install python
+2 clone the repository
+3 to build the page open the file entertainment_center.py
+4 run entertainment_center.py file in idle or etc.
+5 html page will automatically generates and a page will open automatically in browser
+6 if you have html file you can open html page directly with any browser
 
 ## To add more movies in page 
 
